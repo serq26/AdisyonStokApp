@@ -1,0 +1,5 @@
+C:\Users\Lenovo\source\repos\AdisyonProg\AdisyonProg.Entity\bin\Debug\AdisyonProg.Entity.dll
+C:\Users\Lenovo\source\repos\AdisyonProg\AdisyonProg.Entity\bin\Debug\AdisyonProg.Entity.pdb
+C:\Users\Lenovo\source\repos\AdisyonProg\AdisyonProg.Entity\obj\Debug\AdisyonProg.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AdisyonProg\AdisyonProg.Entity\obj\Debug\AdisyonProg.Entity.dll
+C:\Users\Lenovo\source\repos\AdisyonProg\AdisyonProg.Entity\obj\Debug\AdisyonProg.Entity.pdb
